@@ -20,28 +20,10 @@ Visual Studio 2022
 Imágenes de la ejecución del proyecto:
 
 
-Interfaz
-
 <img width="400" height="250" alt="interfaz" src="https://github.com/user-attachments/assets/bf01c63b-6422-454f-952f-2a5add80aefb" />
-
-
-
-Primeras notas
-
 <img width="400" height="250" alt="primeras notas ingresadas" src="https://github.com/user-attachments/assets/ca03e0ba-43e3-441b-a680-7fab9ca7ceca" />
-
-
-
-Completivo
-
 <img width="400" height="250" alt="completivo ingresado" src="https://github.com/user-attachments/assets/21772143-66ba-4b5e-9ca8-599a102b939a" />
-
-
-
-Extraordinario
-
 <img width="400" height="250" alt="extraordinario ingresado" src="https://github.com/user-attachments/assets/924a425a-079f-49f1-93aa-5a1a9bdfa942" />
-
 
 
 
