@@ -1,6 +1,6 @@
 # Formulario-de-ingreso-de-notas
 
-Descripcion:
+# Descripcion:
 
 el programa calcula las 4 notas de un estudiante para sacar su promedio y decir di aprobo , si este
 es insuficiente el programa habilita otra casilla la cual sirve para ingresar una nota extra , en este caso la
@@ -8,7 +8,7 @@ nota del completivo , si aun asi el promedio sigue siendo insuficiente el progra
 casilla la cual sirve para ingresar otra nota extra(el extraordinario), ya por ultimo el programa en base a las
 notas q le ingresaste anteriormente te muestra el promedio del estudiante y el estado del mismo.
 
-Herramientas utilizadas:
+# Herramientas utilizadas:
 
 C#
 
@@ -17,7 +17,7 @@ C#
 Visual Studio 2022
 
 
-Imágenes de la ejecución del proyecto:
+# Imágenes de la ejecución del proyecto:
 
 
 <img width="400" height="250" alt="interfaz" src="https://github.com/user-attachments/assets/bf01c63b-6422-454f-952f-2a5add80aefb" />
@@ -28,7 +28,7 @@ Imágenes de la ejecución del proyecto:
 
 
 
-Uso o Ejecución:
+# Uso o Ejecución:
 
 
 1. Clonar el repositorio desde GitHub
@@ -47,7 +47,7 @@ Uso o Ejecución:
 
 
   
-  Contexto Académico:
+ # Contexto Académico:
   
   
 - Nivel: Secundaria Técnico Profesional
@@ -60,15 +60,6 @@ Uso o Ejecución:
 
 
 
-Autor:
+# Autor:
 Yadiel Tavarez Rosario
-
-  
-  
-
-
-
-
-
-
 
