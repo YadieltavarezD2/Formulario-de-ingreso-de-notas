@@ -33,10 +33,11 @@ Visual Studio 2022
 
 1. Clonar el repositorio desde GitHub
 
-   bash
+```  bash
    
    git clone https://github.com/YadieltavarezD2/Formulario-de-ingreso-de-notas.git
-
+```
+ 
 3. Abrir el archivo `.sln` en Visual Studio
 
 4. Compilar el proyecto
